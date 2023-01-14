@@ -1,5 +1,6 @@
 # Car-brand-logo-detection
 Use of tesseract, YOLO and other CNNs for car brand logo detection
+
 1.Objective
 Given a custom logo dataset, perform a series of experiments to explore the dataset, develop a model for car brand recognition and analyze the results.
 
